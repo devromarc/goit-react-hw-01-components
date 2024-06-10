@@ -27,7 +27,7 @@
   margin-top: 20px;
   border-radius: 50%;
   background-color: gray;
-  transition: transform 250ms;
+  transition: transform 250ms ease;
 }
 
 .name {
